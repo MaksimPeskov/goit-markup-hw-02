@@ -15,6 +15,7 @@ body {
   line-height: 1.11;
   text-align: center;
   text-transform: capitalize;
+  letter-spacing: 0.02em;
 }
 
 .h3 {
@@ -22,6 +23,7 @@ body {
   font-size: 20px;
   line-height: 1.2;
   font-weight: 500;
+  letter-spacing: 0.02em;
 }
 
 ul,
@@ -87,6 +89,7 @@ ol {
   text-align: center;
   font-size: 56px;
   line-height: 1.07;
+  letter-spacing: 0.02em;
 }
 
 .button-hero {
@@ -107,17 +110,59 @@ ol {
 
 /* Features-section */
 
+.features {
+  color: #2e2f42;
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
 /* Team-section */
 
 .team {
   background-color: #f4f4fd;
 }
 
+.our-team {
+  color: #2e2f42;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: 0.02em;
+}
+
 .team-card {
   background-color: #ffffff;
 }
 
+.team-name {
+  color: #2e2f42;
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
 /* Portfolio-section */
+
+.our-portfolio {
+  color: #2e2f42;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: 0.02em;
+}
+
+.portfolio-list {
+  color: #2e2f42;
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
 
 /* Footer */
 .footer {
